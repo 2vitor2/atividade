@@ -1,7 +1,7 @@
 # lista-supermercado
 
 arroz
-feijão
+feijão preto
 batata
 lasanha
 alface 
