@@ -1,5 +1,5 @@
 # lista-supermercado
 
 arroz
-batata
 feijão
+toddynho
