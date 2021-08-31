@@ -6,3 +6,4 @@ batata
 lasanha
 alface 
 espinafre
+não ta atualizado
