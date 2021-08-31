@@ -2,4 +2,6 @@
 
 arroz
 feijão
-toddynho
+batata
+lasanha
+alface 
